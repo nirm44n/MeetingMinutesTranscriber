@@ -1,5 +1,7 @@
 # MeetingMinutesTranscriber
-Open AI - Transcriber - Meeting Minutes Creator  
+Open AI - Transcriber - Meeting Minutes Creator
+
+Open AI Tutorial Link - https://platform.openai.com/docs/tutorials/meeting-minutes
 
 In this  project, I've focused on creating an automated meeting minutes generator using OpenAI's Whisper and GPT-4 models. This innovative application transcribes meeting audio, summarizes discussions, extracts key points and action items, and analyzes sentiment. This automated system aims to streamline the process of generating meeting minutes, saving time and ensuring that crucial information from meetings is accurately captured and easily accessible.
 
